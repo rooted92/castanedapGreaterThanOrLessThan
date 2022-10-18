@@ -1,0 +1,15 @@
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaGreaterThanOrLessThan\bin\Debug\net6.0\pcastanedaGreaterThanOrLessThan.exe
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaGreaterThanOrLessThan\bin\Debug\net6.0\pcastanedaGreaterThanOrLessThan.deps.json
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaGreaterThanOrLessThan\bin\Debug\net6.0\pcastanedaGreaterThanOrLessThan.runtimeconfig.json
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaGreaterThanOrLessThan\bin\Debug\net6.0\pcastanedaGreaterThanOrLessThan.dll
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaGreaterThanOrLessThan\bin\Debug\net6.0\pcastanedaGreaterThanOrLessThan.pdb
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaGreaterThanOrLessThan\obj\Debug\net6.0\pcastanedaGreaterThanOrLessThan.csproj.AssemblyReference.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaGreaterThanOrLessThan\obj\Debug\net6.0\pcastanedaGreaterThanOrLessThan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaGreaterThanOrLessThan\obj\Debug\net6.0\pcastanedaGreaterThanOrLessThan.AssemblyInfoInputs.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaGreaterThanOrLessThan\obj\Debug\net6.0\pcastanedaGreaterThanOrLessThan.AssemblyInfo.cs
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaGreaterThanOrLessThan\obj\Debug\net6.0\pcastanedaGreaterThanOrLessThan.csproj.CoreCompileInputs.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaGreaterThanOrLessThan\obj\Debug\net6.0\pcastanedaGreaterThanOrLessThan.dll
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaGreaterThanOrLessThan\obj\Debug\net6.0\refint\pcastanedaGreaterThanOrLessThan.dll
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaGreaterThanOrLessThan\obj\Debug\net6.0\pcastanedaGreaterThanOrLessThan.pdb
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaGreaterThanOrLessThan\obj\Debug\net6.0\pcastanedaGreaterThanOrLessThan.genruntimeconfig.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaGreaterThanOrLessThan\obj\Debug\net6.0\ref\pcastanedaGreaterThanOrLessThan.dll
