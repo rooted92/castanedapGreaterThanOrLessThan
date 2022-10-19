@@ -8,24 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\petec\\.nuget\\packages\\": {}
+    "C:\\Users\\starf\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\petec\\OneDrive\\Documents\\combine22-23\\level1\\assignments\\pcastanedaGreaterThanOrLessThan\\pcastanedaGreaterThanOrLessThan.csproj",
+      "projectUniqueName": "C:\\Users\\starf\\OneDrive\\Documents\\GitRepository\\pcastanedaGreaterThanOrLessThan\\pcastanedaGreaterThanOrLessThan.csproj",
       "projectName": "pcastanedaGreaterThanOrLessThan",
-      "projectPath": "C:\\Users\\petec\\OneDrive\\Documents\\combine22-23\\level1\\assignments\\pcastanedaGreaterThanOrLessThan\\pcastanedaGreaterThanOrLessThan.csproj",
-      "packagesPath": "C:\\Users\\petec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\petec\\OneDrive\\Documents\\combine22-23\\level1\\assignments\\pcastanedaGreaterThanOrLessThan\\obj\\",
+      "projectPath": "C:\\Users\\starf\\OneDrive\\Documents\\GitRepository\\pcastanedaGreaterThanOrLessThan\\pcastanedaGreaterThanOrLessThan.csproj",
+      "packagesPath": "C:\\Users\\starf\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\starf\\OneDrive\\Documents\\GitRepository\\pcastanedaGreaterThanOrLessThan\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\petec\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\starf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
